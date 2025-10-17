@@ -1,4 +1,4 @@
-
+import "./src/filePractice.js";
 // getData simulates an asynchronous operation using a Promise
 function getData() {
   return new Promise((resolve) => {
